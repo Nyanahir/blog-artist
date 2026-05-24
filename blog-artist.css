@@ -1,0 +1,107 @@
+
+/*35px Font Size is an increase from the default size that H1 provides, just a bit more subtle*/
+.main_heading{
+	font-size: 35px;
+	margin-bottom: 1px;
+	text-align: center;
+	color: seagreen;
+	border-right: 500px ridge forestgreen;
+	border-left: 500px groove forestgreen;
+}
+
+.sub_heading{
+	color: midnightblue;
+	text-transform: uppercase;
+	font-weight: bold;
+	margin-top: 15px;
+	margin-bottom: 0px;
+	text-decoration: underline;
+}
+
+.image_links{
+	text-decoration: none;
+}
+
+/*This is the Images for Nahahira*/
+.model_references{
+	height: 300px;
+	width: 300px;
+}
+
+.image_desc{
+	font-size: 14px;
+}
+
+.clean_personal_list{
+	list-style-type: none;
+	padding: 0px;
+	font-weight: bold;
+	font-size: 16px;
+}
+
+
+.clean_album_list{
+	list-style-type: none;
+	padding: 0px;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.source_section{
+	text-align: center;
+	background-color: navajowhite;
+}
+
+.source_links{
+	color: darkslategrey;
+	background-color: darksalmon;
+	text-decoration: none;
+}
+
+.nana_appreciation{
+	background-color: lemonchiffon;
+	border: 5px groove darkseagreen;
+	margin-bottom: 10px;
+}
+
+.interview_question{
+	font-size: 20px;
+	text-transform: uppercase;
+	font-weight: bold;
+	margin-top: 6px;
+	margin-bottom: 0px;
+	padding-left: 2px;
+	padding-bottom: 8px;
+	border-bottom: 2px dotted forestgreen;
+}
+
+.interview_response{
+	font-style: italic;
+	margin-bottom: 4px;
+	padding-left: 4px;
+	color: forestgreen;
+	margin-top: 4px;
+}
+
+.official_creds{
+	margin-bottom: 10px;
+}
+
+.global_border{
+	border-left: 25px ridge forestgreen;
+	border-right: 25px groove forestgreen;
+	border-radius: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.album_images{
+	height: 255px;
+	width: 255px;
+	margin-bottom: 5px;
+}
+
+.meaning_divider{
+	border-bottom: 2px dotted forestgreen;
+	padding-bottom: 20px;
+}
